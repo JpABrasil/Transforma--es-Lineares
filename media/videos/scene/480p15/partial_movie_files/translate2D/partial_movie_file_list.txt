@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/JOÃO/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/480p15/partial_movie_files/translate2D/1185818338_4071659840_3931496557.mp4'
+file 'file:D:/JOÃO/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/480p15/partial_movie_files/translate2D/624642324_3624641945_2940934633.mp4'
+file 'file:D:/JOÃO/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/480p15/partial_movie_files/translate2D/624642324_1141282389_2782921198.mp4'

@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/JOÃO/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/480p15/partial_movie_files/cena_rotation3DX/2322249630_66111383_873449863.mp4'
+file 'file:D:/JOÃO/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/480p15/partial_movie_files/cena_rotation3DX/2204236566_254778301_275350118.mp4'

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/JOÃO/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/480p15/partial_movie_files/cena_rotation2D/1185818338_1177211196_527110762.mp4'
+file 'file:D:/JOÃO/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/480p15/partial_movie_files/cena_rotation2D/624642324_2475379470_2342522539.mp4'
+file 'file:D:/JOÃO/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/480p15/partial_movie_files/cena_rotation2D/624642324_3848874502_3813860249.mp4'
+file 'file:D:/JOÃO/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/480p15/partial_movie_files/cena_rotation2D/624642324_3642473617_2910443015.mp4'
+file 'file:D:/JOÃO/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/480p15/partial_movie_files/cena_rotation2D/624642324_2899570619_2019871786.mp4'

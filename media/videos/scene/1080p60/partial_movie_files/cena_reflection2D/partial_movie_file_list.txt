@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3529212410_634017564_203601884.mp4'
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3040924799_4290826652_3085888863.mp4'
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3040924799_1141282389_2815730089.mp4'
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3040924799_3263519037_2979681299.mp4'
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3040924799_1141282389_1542888454.mp4'
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3040924799_1440503798_1179485156.mp4'
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3040924799_1141282389_2518636105.mp4'
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3040924799_3259502360_1460235181.mp4'
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3040924799_1141282389_1246065133.mp4'
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3040924799_3190974746_3215293082.mp4'
+file 'file:D:/Faculdade/2_Semestre/Algebra Linear/Atividade02/media/videos/scene/1080p60/partial_movie_files/cena_reflection2D/3040924799_1141282389_2243885662.mp4'
